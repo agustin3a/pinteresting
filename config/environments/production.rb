@@ -84,5 +84,4 @@ Rails.application.configure do
 
   #sets papeclip to upload images to amazon s3
 
-}
 end
